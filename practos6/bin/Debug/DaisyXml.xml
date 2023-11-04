@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfDaisy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Daisy>
+    <Client>Варвара</Client>
+    <WeekDay>Вторник</WeekDay>
+  </Daisy>
+  <Daisy>
+    <Client>Александра</Client>
+    <WeekDay>Среда</WeekDay>
+  </Daisy>
+  <Daisy>
+    <Client>София</Client>
+    <WeekDay>Пятница</WeekDay>
+  </Daisy>
+</ArrayOfDaisy>

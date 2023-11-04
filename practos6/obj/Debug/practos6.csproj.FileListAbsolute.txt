@@ -1,0 +1,10 @@
+D:\Microsoft VS Code\practos6\practos6\bin\Debug\practos6.exe.config
+D:\Microsoft VS Code\practos6\practos6\bin\Debug\practos6.exe
+D:\Microsoft VS Code\practos6\practos6\bin\Debug\practos6.pdb
+D:\Microsoft VS Code\practos6\practos6\obj\Debug\practos6.csproj.AssemblyReference.cache
+D:\Microsoft VS Code\practos6\practos6\obj\Debug\practos6.csproj.CoreCompileInputs.cache
+D:\Microsoft VS Code\practos6\practos6\obj\Debug\practos6.exe
+D:\Microsoft VS Code\practos6\practos6\obj\Debug\practos6.pdb
+D:\Microsoft VS Code\practos6\practos6\bin\Debug\Newtonsoft.Json.dll
+D:\Microsoft VS Code\practos6\practos6\bin\Debug\Newtonsoft.Json.xml
+D:\Microsoft VS Code\practos6\practos6\obj\Debug\practos6.csproj.CopyComplete
